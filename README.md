@@ -41,14 +41,20 @@ AGENTQL_API_KEY = "your-agentql-api-key"
 ```
 
 ▶️ Getting Started
+
 ✅ Run Locally
+
 (1) Clone the repository
+
 git clone https://github.com/nairanujit3/priceWise.git
+
 cd pricewise-assistant
 
 (2) Install dependencies
+
 pip install -r requirements.txt
 
 (3) Launch the app
+
 streamlit run app.py
 
