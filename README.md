@@ -1,4 +1,4 @@
-# CHATnCHOOSE
+# PriceWise
 
 Chat your way to the best deal!!
 
@@ -9,7 +9,7 @@ Chat your way to the best deal!!
 - Shaili Parikh (202418049)
 
 ## 📖 Problem Definition
-Users often find it challenging to compare prices of products across multiple e-commerce platforms in India. Manually searching each website is time-consuming and can lead to inconsistent results. CHATnCHOOSE addresses this by providing an AI-powered chatbot that automatically queries major Indian e-commerce sites (Amazon.in, Flipkart, Croma), compares prices, and presents users with clear, actionable information—either directly from product listings or by searching the web for relevant links.
+Users often find it challenging to compare prices of products across multiple e-commerce platforms in India. Manually searching each website is time-consuming and can lead to inconsistent results. PriceWise addresses this by providing an AI-powered chatbot that automatically queries major Indian e-commerce sites (Amazon.in, Flipkart, Croma), compares prices, and presents users with clear, actionable information—either directly from product listings or by searching the web for relevant links.
 
 ## Tools and APIs Used
 - LangGraph & LangChain: For building stateful, multi-step chatbot workflows.
@@ -22,7 +22,7 @@ Users often find it challenging to compare prices of products across multiple e-
 
 ## Methodology
 
-CHATnCHOOSE uses a tool-based agent workflow powered by LangGraph and LangChain. The process is as follows:
+PriceWise uses a tool-based agent workflow powered by LangGraph and LangChain. The process is as follows:
 
 User Query: The user asks for a product price comparison.
 
@@ -58,4 +58,4 @@ Future Fixes:
 
 - Error Handling: Improve logging and user feedback for failed queries.
 
-CHATnCHOOSE demonstrates how modern AI tools can simplify price comparison for users by automating data retrieval, reasoning, and response generation. The project highlights the importance of robust state management, fallback mechanisms, and iterative testing in building reliable AI-driven applications. Future work will focus on improving filtering, user interfaces, and error handling for a seamless user experience.
+PriceWise demonstrates how modern AI tools can simplify price comparison for users by automating data retrieval, reasoning, and response generation. The project highlights the importance of robust state management, fallback mechanisms, and iterative testing in building reliable AI-driven applications. Future work will focus on improving filtering, user interfaces, and error handling for a seamless user experience.
